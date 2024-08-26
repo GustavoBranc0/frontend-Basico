@@ -1,3 +1,5 @@
+## [Readme](../../README.md)
+
 # String
 > [Documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String)
 
